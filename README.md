@@ -1,4 +1,4 @@
-# ModbusCRC16
+# CRC16ForPHP
 这是一个CRC16校验算法的PHP代码的实现
 目前暂时支持 MODBUS协议
 
