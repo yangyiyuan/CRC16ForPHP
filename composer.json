@@ -1,28 +1,13 @@
 {
-  "name": "ewan/crc16",
-  "description": "CRC16 For PHP",
-  "keywords": [
-    "crc16",
-    "modbus",
-    "php"
-  ],
-  "homepage": "https://github.com/yangyiyuan/CRC16ForPHP.git",
-  "type": "crc16-model",
-  "license": "MIT",
-  "support": {
-    "source": "https://github.com/yangyiyuan/CRC16ForPHP.git"
-  },
-  "authors": [
-    {
-      "name": "ewan",
-      "email": "654846126@qq.com"
-    }
-  ],
-  "minimum-stability": "stable",
-  "require": {
-    "php": ">=5.4.0"
-  },
-  "config": {
-    "process-timeout": 1800
-  }
+    "name": "ewan/crc16",
+    "description": "crc16 for php",
+    "type": "project",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "杨依园",
+            "email": "cola.yang@firedata.cn"
+        }
+    ],
+    "require": {}
 }
