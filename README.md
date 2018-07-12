@@ -4,6 +4,9 @@
 目前暂时支持
 * MODBUS协议
 
+
+
+
 ```
 $crc = new CRC16();
 $result = $crc->calculationResult('010303000008');
